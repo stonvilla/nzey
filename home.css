@@ -1,0 +1,25 @@
+.cd {
+	list-style: none;
+	display: inline-block;
+}
+.cd ul
+{text-align: center;
+}
+.cd ul li{
+	list-style: none;
+	display: inline-block;
+}
+.cd ul li a {
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #e0bs;
+	font-size: 20px;
+letter-spacing: 2px;
+font-weight: 600;
+}
+a:hover{
+	background-color: black;
+}
+
+
